@@ -14,7 +14,7 @@ untuk cara menginstall, sama seperti program pada umumnya.
 Bila sudah menginstall Wekinator dan Processing, download file berikut (pilih sesuai dengan OS kalian) yang akan digunakan untuk Workshop Machine Learning:
 
 ### a. File Sketch Processing
-- [*Win32*]()
+- [*Win32*](https://drive.google.com/open?id=1SqiOfI6sZ0-fndEfZsOr2f3s1UBdUCMa)
 - [*Win64*](https://drive.google.com/open?id=1mZoUG5oLK9Am5FFWcoynqho3FtQekveM)
 - [*Linux32*](https://drive.google.com/file/d/1bBbFe_O63WyC1pJFqyCaIdLMhVFt_f0W/view?usp=sharing)
 - [*Linux64*](https://drive.google.com/open?id=1JJxf2R81sESXrIEN7DcNpufSjwu2JHjA)
